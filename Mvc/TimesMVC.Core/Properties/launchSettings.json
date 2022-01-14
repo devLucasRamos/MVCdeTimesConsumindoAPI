@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TimesMVC.Core": {
+      "commandName": "Project"
+    },
+    "Perfil 1": {
+      "commandName": "Project"
+    }
+  }
+}

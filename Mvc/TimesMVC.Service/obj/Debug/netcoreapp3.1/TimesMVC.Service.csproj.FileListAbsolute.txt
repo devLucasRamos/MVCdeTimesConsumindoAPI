@@ -1,0 +1,16 @@
+C:\Users\lucas\source\repos\TimesMVC.Service\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lucas\source\repos\TimesMVC.Service\bin\Debug\netcoreapp3.1\TimesMVC.Service.deps.json
+C:\Users\lucas\source\repos\TimesMVC.Service\bin\Debug\netcoreapp3.1\TimesMVC.Service.dll
+C:\Users\lucas\source\repos\TimesMVC.Service\bin\Debug\netcoreapp3.1\TimesMVC.Service.pdb
+C:\Users\lucas\source\repos\TimesMVC.Service\bin\Debug\netcoreapp3.1\TimesMVC.Core.dll
+C:\Users\lucas\source\repos\TimesMVC.Service\bin\Debug\netcoreapp3.1\TimesMVC.Repository.dll
+C:\Users\lucas\source\repos\TimesMVC.Service\bin\Debug\netcoreapp3.1\TimesMVC.Core.pdb
+C:\Users\lucas\source\repos\TimesMVC.Service\bin\Debug\netcoreapp3.1\TimesMVC.Repository.pdb
+C:\Users\lucas\source\repos\TimesMVC.Service\obj\Debug\netcoreapp3.1\TimesMVC.Service.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\TimesMVC.Service\obj\Debug\netcoreapp3.1\TimesMVC.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\TimesMVC.Service\obj\Debug\netcoreapp3.1\TimesMVC.Service.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\TimesMVC.Service\obj\Debug\netcoreapp3.1\TimesMVC.Service.AssemblyInfo.cs
+C:\Users\lucas\source\repos\TimesMVC.Service\obj\Debug\netcoreapp3.1\TimesMVC.Service.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\TimesMVC.Service\obj\Debug\netcoreapp3.1\TimesMVC.Service.csproj.CopyComplete
+C:\Users\lucas\source\repos\TimesMVC.Service\obj\Debug\netcoreapp3.1\TimesMVC.Service.dll
+C:\Users\lucas\source\repos\TimesMVC.Service\obj\Debug\netcoreapp3.1\TimesMVC.Service.pdb

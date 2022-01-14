@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TimesMVC.Core\TimesMVC.Core.csproj" />
+    <ProjectReference Include="..\TImesMVC.Repository\TimesMVC.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

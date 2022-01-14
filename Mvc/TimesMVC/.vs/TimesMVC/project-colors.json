@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a3fea844-5226-4be2-b2ef-ca7748219af0": {
+      "ProjectGuid": "a3fea844-5226-4be2-b2ef-ca7748219af0",
+      "DisplayName": "TimesMVC",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "a0e91eb8-1a5e-4643-b972-7d3cc38cfbb8": {
+      "ProjectGuid": "a0e91eb8-1a5e-4643-b972-7d3cc38cfbb8",
+      "DisplayName": "TimesMVC.Core",
+      "ColorIndex": 1
+    },
+    "e420c6ca-b94d-4723-8b96-d9f19c1fa51f": {
+      "ProjectGuid": "e420c6ca-b94d-4723-8b96-d9f19c1fa51f",
+      "DisplayName": "TimesMVC.Core",
+      "ColorIndex": 2
+    },
+    "652b0ca1-9c0d-46f4-a809-28fc5b2dcc3f": {
+      "ProjectGuid": "652b0ca1-9c0d-46f4-a809-28fc5b2dcc3f",
+      "DisplayName": "TimesMVC.Service",
+      "ColorIndex": 3
+    },
+    "9cd50bf2-687f-493c-a4c0-321fb5c59c2a": {
+      "ProjectGuid": "9cd50bf2-687f-493c-a4c0-321fb5c59c2a",
+      "DisplayName": "TimesMVC.Repository",
+      "ColorIndex": 4
+    },
+    "de762d60-72b2-4033-aca3-d9931edf5847": {
+      "ProjectGuid": "de762d60-72b2-4033-aca3-d9931edf5847",
+      "DisplayName": "TimeMVC",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
